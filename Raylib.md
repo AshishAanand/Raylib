@@ -1,6 +1,6 @@
-# Game Development with Raylib and C++: From 2D to 3D
+# 🎮 Game Development with Raylib and C++: From 2D to 3D 🕹
 
-## Preface
+## 📃Preface
 
 Welcome to "Game Development with Raylib and C++: From 2D to 3D." This book is designed for programmers looking to enter the exciting world of game development using the lightweight and powerful Raylib library with C++. Whether you're new to game development or have experience with other frameworks, this book will guide you through creating both 2D and 3D games with clear explanations and practical examples.
 
